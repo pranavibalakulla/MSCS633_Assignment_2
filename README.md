@@ -91,18 +91,6 @@ When the application asks for a URL, enter:
 https://www.bioxsystems.com/
 ```
 
-## Expected Output
-
-After running the program, the terminal should display an output similar to the following:
-
-```text
-Biox Systems QR Code Generator
---------------------------------
-Enter the URL to generate QR Code: https://www.bioxsystems.com/
-QR Code generated successfully.
-Saved file name: biox_qr_code.png
-```
-
 ## Final Output
 
 The application generates a QR Code image file named:
