@@ -46,15 +46,6 @@ When prompted, enter the following URL:
 https://www.bioxsystems.com/
 ```
 
-## Expected Output
-
-```text
-Biox Systems QR Code Generator
---------------------------------
-Enter the URL to generate QR Code: https://www.bioxsystems.com/
-QR Code generated successfully.
-Saved file name: biox_qr_code.png
-```
 
 ## Coding Best Practices Followed
 
