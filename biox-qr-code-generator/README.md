@@ -1,8 +1,8 @@
 # Biox Systems QR Code Generator
 
-## Project Description
+## Assignment Description
 
-This project is a Python-based QR Code generator application developed for Biox Systems. 
+This Assignment is a Python-based QR Code generator application developed for Biox Systems. 
 The application accepts a URL as input and generates a QR Code image in PNG format.
 
 ## Example URL Used
@@ -17,7 +17,7 @@ https://www.bioxsystems.com/
 - Visual Studio Code
 - GitHub
 
-## Project Files
+## Assignment Files
 
 - `main.py`: Python source code for the QR Code generator.
 - `requirements.txt`: Manifest file containing required Python packages.
